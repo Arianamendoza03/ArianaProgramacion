@@ -1,0 +1,5 @@
+Debe poner nombres significativos a los formularios
+Debe usar nombres de variables significativos
+Debe usar nombres de objetos(cuadros de texto, botones) significativos
+Puede mejorar las condiciones del for en el ejercicio de contar palabras
+Calificación: 3/3
